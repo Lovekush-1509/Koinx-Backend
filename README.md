@@ -1,4 +1,4 @@
-```#Cryptocurrency Tracker#```
+### Cryptocurrency Tracker ###
 
 A server-side application built with Node.js and MongoDB to track cryptocurrency statistics using the CoinGecko API.
 This application includes background jobs for periodic updates, APIs for fetching the latest statistics, and calculating standard deviations of historical prices.
