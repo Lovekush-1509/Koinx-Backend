@@ -14,3 +14,14 @@ Calculate the standard deviation of the last 100 price records.
 Node.js (v12 or above)
 MongoDB (local or MongoDB Atlas)
 Internet access to fetch data from the CoinGecko API
+
+
+```Technologies Used```
+Node.js
+Express.js
+MongoDB
+Mongoose
+node-cron
+axios
+dotenv
+body-parser
